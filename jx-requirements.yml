@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: itzroks-664001y55a-y5g3cl-4b4a324f027aea19c5cbc0c3275c4656-0000.us-south.containers.appdomain.cloud
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
